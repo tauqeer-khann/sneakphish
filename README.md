@@ -21,59 +21,103 @@
 <a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/mrphish?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
-## ABOUT TOOL :
+## ABOUT TOOL:
 sneakphish is a bash based script which is officially made for phish*ng social media accounts with portforwarding and google bypass features. This tool works on both rooted Android device and Non-rooted Android device.
 <p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a>
 </p>
-## AVAILABLE ON :
-* Termux
-### TESTED ON :
-* Termux
-### REQUIREMENTS :
-* internet 30 MB
-* php, wget, curl
-* storage 100 MB
-* ngrok Token
-## FEATURES :
-* [+] 20+ uptodate pages !
-* [+] Updated maintainence !
-* [+] 1 Port Forwarding Option !
-* [+] No link issues, timing !
-* [+] Whats app forward !
-* [+] Bypass Google detection !
-* [+] Easy for Beginners !
-## INSTALLATION [Termux] :
-* `apt-get update -y`
-* `apt-get upgrade -y`
-* `pkg install curl -y`
-* `pkg install wget -y`
-* `pkg install git -y`
-* `pkg install php -y`
-* `git clone https://github.com/noob-hackers/sneakphish`
-* `cd $HOME`
-* `ls`
-* `cd sneakphish`
-* `ls`
-* `bash sneakphish.sh`
-```
-[+]-- To enable whats app forward use option 4 (More) and follow steps
-[+]-- Google detection code is given in link page.
-```
-## USAGE OPTIONS [Termux] :
-__START__ :
-- From this option you can start attack and explore available option in tool Type ok in next step.
-__DUMPS__ :
-- From this option you can get old saved dumps of all ids.
-__ABOUT__ :
-- From this option you can know more about author.
-__UPDATE__ :
-- From this option you can update mrphish tool if updates are available for that.
-__SUBSCRIBE__ :
-- From this option you can easily subscribe our official channel.
-__EXIT__ :
-- From this option you can exit from tool 
-## SCREEN SHOTS [Termux]
 
+# Sneakphish  
+
+**Sneakphish** is a bash-based script officially made for phishing social media accounts. It includes features like port forwarding and Google detection bypass. This tool works on both rooted and non-rooted Android devices via **Termux**.  
+
+<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566254-31801e00-b0d3-11eb-860d-5601b1adccb8.jpg"></a></p>  
+
+---
+
+## 📲 Available On:
+- **Termux**
+
+---
+
+## 💻 Tested On:
+- **Termux**
+
+---
+
+## ⚙️ Requirements:
+- **Internet**: 30 MB  
+- **Tools**: PHP, wget, curl  
+- **Storage**: 100 MB  
+- **Ngrok Token**
+
+---
+
+## ✨ Features:
+- ✅ 20+ up-to-date phishing pages  
+- ✅ Regular maintenance and updates  
+- ✅ Port forwarding support  
+- ✅ No link issues or timing problems  
+- ✅ WhatsApp forward feature  
+- ✅ Google detection bypass  
+- ✅ Beginner-friendly  
+
+---
+
+## 📥 Installation [Termux]:
+
+```bash
+apt-get update -y
+apt-get upgrade -y
+pkg install curl -y
+pkg install wget -y
+pkg install git -y
+pkg install php -y
+git clone https://github.com/noob-hackers/sneakphish
+cd sneakphish
+bash sneakphish.sh
+```
+
+---
+
+## 🚀 Usage Options:
+
+### Start:  
+- Start the attack and explore available features. Type `ok` when prompted.  
+
+### Dumps:  
+- Access old saved dumps of all IDs.  
+
+### About:  
+- Learn about the author and contributors.  
+
+### Update:  
+- Update the Sneakphish tool if a new version is available.  
+
+### Subscribe:  
+- Subscribe to the official Noob Hackers channel for updates and tutorials.  
+
+### Exit:  
+- Exit the tool.  
+
+---
+
+## ⚡ How to Enable WhatsApp Forward:
+1. Select **Option 4 (More)** in the tool menu.  
+2. Follow the on-screen steps for enabling the WhatsApp forward feature.  
+
+---  
+
+## 🛠️ Author:  
+This tool was created by **Noob Hackers**. For any queries, you can connect with us through our [YouTube channel](https://rebrand.ly/noobhacktube).  
+
+---
+
+> **Disclaimer:**  
+> This tool is for educational purposes only. Use it responsibly and ensure you have proper authorization before engaging in phishing activities. The creator is not responsible for any misuse.
+
+---
+
+## 📸 Screenshots:
 <br>
 <p align="center">
 <img width="45%" src="https://user-images.githubusercontent.com/49580304/131511305-c8e6ca69-5aac-4c4e-85af-5b96d2f6eb7e.jpg"/>
